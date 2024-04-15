@@ -1,0 +1,2 @@
+google-generativeai
+gradio huggingface_hub
